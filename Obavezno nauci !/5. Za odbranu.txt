@@ -1,0 +1,25 @@
+Za odbranu: (pročitaj sve ovo odmah)
+
+1. Obavezno proveri da li ima neke greške u radu, istestiraj sve i ako baca negde exception, javi mi. Ako ti se javi neka greška u upitu, pogledaj output na serveru, tu ti se ispisuje svaki upit i naredba koja se izvršava!
+
+2. Obriši komentare iz složenih slučajeva! (add i update)
+
+3. Možeš da promeniš broj porta (socket) u klasama ThreadServer i Session u koji god želiš koji je slobodan.
+
+4. Izmeni autora u svakoj klasi (ono iznad naziva svake klase) na autora koji ti je na kompu. (Napravi novu klasu i vidi šta ti ispisuje). Ovo nije nužno, ali za svaki slučaj.
+
+5. Nauči AbstractSO, AbstractDomainObject i DBBrokera lepo jer mogu da pitaju i to da iskucaš, to su najbitnije klase.
+
+6. Nauči da crtaš i objasniš svoj konceptualni model (bez atributa naravno).
+
+7. Obavezno da znaš da se dbconfig.properties nalazi u Files na Serveru!
+
+8. Nemoj da zaboraviš da odštampaš dokumentaciju i staviš spiralu.
+
+9. Slobodno možeš da izmeniš imena nekih klasa u komunikaciji kako god ti želiš, čisto da se malo razlikuje od ostalih.
+
+10. Ako ti kažu da je kupljen rad, naravno kažeš da nije i nikad ne priznaš! Ako baš forsiraju, možeš da odaš da ti je poslao drug/drugarica i da si po tome radio/la svoj projekat, odnosno da si to koristio/la kao template da vidiš kako treba.
+
+11. Možeš da izmeniš boje i izgled forme generalno (pa tek onda radi skrinšotove za dokumentaciju ako ćeš ovo da odradiš), možeš i da dodaš neku funkcionalnost ako imaš vremena da se time pozabaviš, čisto da ti bude malo drugačije. (ja pokušavam svima što drugačije da radim po roku, ali sam ograničen po tom pitanju)
+
+Srećno i javi mi kako je prošlo!

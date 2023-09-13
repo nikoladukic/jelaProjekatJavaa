@@ -1,0 +1,7 @@
+Zadali su zadatak da se napravi konfiguracioni fajl dbconfig.properties u kodu, preko aplikacije.
+
+Mogao je da se koristi net, ljudi su radili i preko ChatGPT-a, tako da biste se svi snasli.
+
+U btnSacuvaj u formi za konfiguraciju baze napiši kod koji sam napisao na slici.
+
+Obavezno zakomentarisi popuniPolja metodu jer dbconfig ne postoji ako ga obrišeš!

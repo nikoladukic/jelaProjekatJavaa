@@ -1,0 +1,6 @@
+Ako te pitaju gde se SOAddNarudzbina ili UpdateNarudzbina nalazi u kodu (slika iz 3. faze za dijagrame sekvenci za ugovore), ti kažeš:
+
+To mi je SOAddNarudzbina, svaka naša sistemska operacija nasleđuje AbstractSO koja u sebi ima validate i execute 
+apstraktne metode koje se izvršavaju različito za svaku SO. 
+ServerController poziva templateExecute metodu za svaku SO čime se izvršavaju njen validate i 
+execute, pa onda objasniš šta si stavila za validate i execute za tu operaciju.

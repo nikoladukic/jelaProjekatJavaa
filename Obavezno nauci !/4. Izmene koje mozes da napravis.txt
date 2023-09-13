@@ -1,0 +1,21 @@
+CTRL + R za Refactor!
+
+Možeš da izmeniš nazive metoda u AbstractDomainObjectu.
+
+Možeš da izmeniš naziv AbstractDomainObjecta.
+
+Možeš da menjaš nazive operacija.
+
+Možeš da menjaš nazive za ClientController, ServerController, ThreadServer, ThreadClient.
+
+Možeš da izmeniš naziv AbstractSO i metoda validate, execute, templateExecute, commit i rollback.
+
+=== Sve ove klase izmeni i u dokumentaciji gde se pominju u trećoj fazi ako izmeniš u radu. ===
+
+Možeš da izmeniš malo konačni dijagram arhitekture softverskog sistema.
+
+Možeš da dodaš validacije za email, telefon (samo brojevi) ili šta god želiš, to samo kucaj na guglu da nađeš patern.
+
+Možeš umesto key released za pretragu da staviš i button Pretraga ako želiš (takođe i za količinu i cenu stavke ako imaš u radu).
+
+Možeš da staviš i button za odjavu ili bilo šta drugo da bude malo drugačija odjava (npr. da ne bude u meniju, kako god želiš).

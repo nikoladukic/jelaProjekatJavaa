@@ -1,0 +1,16 @@
+
+- Napravimo operaciju za ADD, DELETE, UPDATE i GET_ALL komponenta.
+
+- Pravis novu klasu Komponenta sa ID-em, nazivom i opisom (ovo radis i u bazi takodje), 
+onda prekopiras sve Overridovane metode iz Administratora i menjas za Komponentu.
+
+Sad idemo na Server i pratimo sliku unazad:
+- DBBroker je odrađen, izvršavaju se generičke metode.
+- Pravimo klasu za svaku sistemsku operaciju, kopiramo postojeću i menjamo naziv objekta.
+- Pozivamo svaku SO u ServerControlleru gde izvrsavamo template execute (opet copy-paste i menjamo naziv objekta)
+- Pozivamo ServerControllera u ThreadClientu (opet copy-paste).
+
+- Sad idemo na Klijenta i pozivamo sve to u ClientControlleru (copy-paste).
+
+- Nakon toga, kreiramo forme za CRUD operacije, kopiramo postojece Novi, Pretraga i Detalji i menjamo za Komponentu.
+
